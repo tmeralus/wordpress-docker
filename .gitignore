@@ -1,0 +1,7 @@
+.env
+*.sql
+*.sql--
+
+.workflow.properties
+
+wp-content/uploads
